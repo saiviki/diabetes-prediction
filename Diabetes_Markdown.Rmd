@@ -1,6 +1,6 @@
 ---
 title: "Diabetes Prediction Report"
-author: "Sairam Sasupathi & Nabhoneil Samajdar"
+author: "Sairam Sasupathi"
 date: "20 September 2016"
 output: pdf_document
 ---
